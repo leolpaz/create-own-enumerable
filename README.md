@@ -1,12 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Medical Clinic Database
+# Repository Description
 
-> This repository contains the code required to translate simple morse code messages, the program was writing using Ruby
-
-![screenshot](./diagram_screenshot.png)
-
-- This database has tables, primary keys, foreign keys and indexes for each foreign to perform the query search faster.
+> This repository contains the code required to implement classes and modules with inner methods using Ruby
 
 ## Built With
 
@@ -28,7 +24,7 @@ git clone <REPO-NAME>
 ```
 - Use the follow code in your terminal to execute the file
 ```
-ruby index.rb
+ruby my_list.rb
 
 ```
 ## Authors
