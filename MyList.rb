@@ -18,9 +18,3 @@ class MyList
   end
 
 end
-
-list = MyList.new(1,2,3,4,7)
-
-list.each{|n| p n*2}
-
-p list.any? {|e| e > 5}
