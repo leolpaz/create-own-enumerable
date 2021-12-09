@@ -1,4 +1,7 @@
+require_relative 'MyEnumerable.rb'
+
 class MyList
+  include MyEnumerable
   def initialize(*numbers)
     @list = []
     numbers.each{|number| @list.push(number)}
@@ -11,11 +14,13 @@ class MyList
       yield @list[i]
       i += 1
     end
-    self    
+    @list   
   end
 
 end
 
-list = MyList.new(1, 2, 3, 4)
+list = MyList.new(1,2,3,4,7)
 
 list.each{|n| p n*2}
+
+p list.any? {|e| e > 5}
