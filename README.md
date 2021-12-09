@@ -1,59 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Repository Description
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> This repository contains the code required to implement classes and modules with inner methods using Ruby
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-### Setup
+- A code editor of your preference.
+- Ruby
 
 ### Install
 
-### Usage
+- Clone the repository from gitHub
+```
+git clone <REPO-NAME>
 
-### Run tests
+```
+- Use the follow code in your terminal to execute the file
+```
+ruby my_list.rb
 
-### Deployment
-
-
-
+```
 ## Authors
 
-👤 **Author1**
+👤 **Enmanuel Lassis**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Enmanuel Lassis](https://github.com/elassis)
+- LinkedIn: [Enmanuel Lassis](https://linkedin.com/in/enmanuel-lassis-pena)
 
-👤 **Author2**
+👤 **Leonardo Paz** (Performance audit)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [Leonardo Paz](https://github.com/leolpaz)
+- Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
+- Linkedin: [Leonardo Paz](https://www.linkedin.com/in/leonardolpaz/)
 
 ## 🤝 Contributing
 
@@ -64,12 +49,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
